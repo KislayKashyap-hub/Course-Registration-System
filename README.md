@@ -1,7 +1,5 @@
 # Node.js-Express-MongoDB-API-Functionality
 
-# Node.js Express MongoDB API Application
-
 This project is a Node.js Express application that interacts with MongoDB to manage users, courses, registrations, and scores. It provides various API endpoints for CRUD operations on these entities.
 
 ## Prerequisites
