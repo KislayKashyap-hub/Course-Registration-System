@@ -1,6 +1,5 @@
-# Node.js-Express-MongoDB-API-Functionality
-
-This project is a Node.js Express application that interacts with MongoDB to manage users, courses, registrations, and scores. It provides various API endpoints for CRUD operations on these entities.
+# Course Registration System
+The `Course Registration System` is a Node.js and Express-based application designed to manage users, courses, registrations, and scores. Utilizing MongoDB for data storage, it offers a range of API endpoints for CRUD operations on these entities.
 
 ## Prerequisites
 
@@ -113,7 +112,7 @@ Before running this application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KislayKashyap-hub/Node.js-Express-MongoDB-API-Functionality.git
+   git clone https://github.com/KislayKashyap-hub/Course-Registration-System.git
 
 ## Usage
 
